@@ -1,4 +1,4 @@
-# Hey, I'm Łukasz 👋
+# Hey, I'm Łukasz
 
 MSc Computer Engineering & Embedded Systems @ **TU Delft** | Student Software Developer @ **Allseas**
 
