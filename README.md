@@ -4,10 +4,9 @@ MSc Computer Engineering & Embedded Systems @ **TU Delft** | Student Software De
 
 ## Current Focus
 
-- Hoping to do more contributions to FOSS projects I rely on 
+- Hoping to do more contributions to FOSS projects I use
 - Low-level programming (C/C++, ARM/RISC-V assembly)
 - Making hardware and software work together nicely if possible
-- Using those integrations to make robotics/AI smoooother
 
 ## Few Cool Projects
 
