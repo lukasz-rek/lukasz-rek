@@ -1,13 +1,12 @@
-# Hey, I'm Łukasz
+# Hello
 
 MSc Computer Engineering & Embedded Systems @ **TU Delft** | Student Software Developer @ **Allseas**
 
-## Current Focus
+## What I'm doing now
 
-- Hoping to do more contributions to FOSS projects I use
-- Low-level programming (C/C++, ARM/RISC-V assembly)
-- Making hardware and software work together nicely if possible
-
+- Hoping to do more contributions to projects I use
+- Low-level programming (C/C++, ARM/RISC-V assembly) maybe some verilog
+- 
 ## Few Cool Projects
 
 **[rpi](https://github.com/lukasz-rek/rpi)** - Bare metal operating system for Raspberry Pi 4  
