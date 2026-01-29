@@ -1,6 +1,6 @@
 # Hello
 
-MSc Computer Engineering & Embedded Systems @ **TU Delft** | Student Software Developer @ **Allseas**
+MSc Computer Engineering & Embedded Systems @ **TU Delft**
 
 ## What I'm doing now
 
