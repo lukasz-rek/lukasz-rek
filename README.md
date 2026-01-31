@@ -5,7 +5,7 @@ MSc Computer Engineering & Embedded Systems @ **TU Delft**
 ## What I'm doing now
 
 - Hoping to do more contributions to projects I use
-- Low-level programming (C/C++, ARM/RISC-V assembly) maybe some verilog
+- Low-level programming (C/C++, ARM/RISC-V assembly) and verilog
 
 ## Few Cool Projects
 
