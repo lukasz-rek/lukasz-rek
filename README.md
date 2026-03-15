@@ -12,7 +12,7 @@ MSc Computer Engineering & Embedded Systems @ **TU Delft**
 **[rpi](https://github.com/lukasz-rek/rpi)** - Bare metal operating system for Raspberry Pi 4  
 Custom OS built from scratch (and guidance from other bare metal projects) featuring simple terminal, user space execution, and SD card filesystem support. Written in C with ARM assembly.
 
-**[riscv-cpu](https://github.com/lukasz-rek/riscv-cpu)** - At uni I've been taught many great things, but due to time constraints I feel I've never explored some of the stuff. This repo is an experiment in building up a simple riscv32i core, upgrading it with selected extensions, pipelining and other stuff and measuring the impacts with benchmarks and synthesis runs for a kria kv260. In progress.
+**[riscv-cpu](https://github.com/lukasz-rek/riscv-cpu)** - At uni I've been taught many great things, but due to time constraints I feel I've never explored some of the stuff. This repo is an experiment in building up a simple riscv32 core, upgrading it with selected extensions, pipelining and other stuff and measuring the impacts with benchmarks and synthesis runs for a kria kv260. U might ask why? I'm doing all this cause I like computers, making a cpu **IS** making a computer.
 
 **[array-multiplier-verilog](https://github.com/lukasz-rek/array-multiplier-verilog)** - Custom hardware multiplier in verilog that adapts to bit widths made as a tool for uni project. Could be improved but works!
 
