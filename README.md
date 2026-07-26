@@ -1,6 +1,6 @@
 # Hello
 
-MSc Computer Engineering & Embedded Systems @ **TU Delft**
+MSc Computer & Embedded Systems Engineering @ **TU Delft**
 
 ## What I'm doing now
 
