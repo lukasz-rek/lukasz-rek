@@ -20,8 +20,6 @@ I now have a risc32ima CPU that runs bare-metal and can run Zephyr or noMMU Linu
 
 **[array-multiplier-verilog](https://github.com/lukasz-rek/array-multiplier-verilog)** - Custom hardware multiplier in verilog that adapts to bit widths made as a tool for uni project. Could be improved but works!
 
-**[mac-module](https://github.com/lukasz-rek/mac-module)** - FPGA-based MAC unit for neural network inference. Hardware accelerator for MNIST classification implemented in Verilog.
-
 ## Contact
 
 - Email: lukasz.rek@pm.me
